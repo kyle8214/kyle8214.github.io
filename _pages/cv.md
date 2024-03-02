@@ -21,15 +21,17 @@ Research Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming: R, Mathematica , LATEX,  C,  python
+
+English: TOEFL: 108 (R: 30; L: 29; S: 23; W: 26 );  GRE: 323+ 3.0
+
 
 Honors
 =======
+Outstanding Student Scholarship, Silver award  	2023
+
+Chinese Mathematics Competitions, first prize in Anhui province	2023
+
 
 
 
