@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "kyle"
   pronouns         : # example: "she/her"  
-  bio              : "I'm currently a sophomore students majoring statistics in USTC. This site is an example site on github. I haven't updated yet"
+  bio              : "I'm currently a sophomore students majoring statistics in USTC. This site is an example site on github by... I haven't updated yet"
   location         : "Earth"
   employer         : "USTC"
   uri              : # URL
@@ -71,6 +71,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  QQ               :""
 
 
 # Site Settings
