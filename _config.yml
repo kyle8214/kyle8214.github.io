@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "kyle"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "kyle"
 description              : &description "personal description"
 url                      : https://kyle8214.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "xiaodouniavatar.jpeg"
   name             : "kyle"
   pronouns         : # example: "she/her"  
-  bio              : "I'm currently a sophomore students majoring statistics in USTC. This site is an example site on github by... I haven't updated yet"
+  bio              : "I'm currently a sophomore students majoring statistics in USTC."
   location         : "Earth"
   employer         : "USTC"
   uri              : # URL
