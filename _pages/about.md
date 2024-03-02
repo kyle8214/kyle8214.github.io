@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a sophomore student in statistics at the University of Science and Technology of China. Before that, I was graduated from the Affiliated High School of Shanxi University and went to the School of the gifted young of USTC in 2022.9.
+I'm currently a sophomore student in statistics at the University of Science and Technology of China. Before that, I was graduated from the Affiliated High School of Shanxi University and was admitted to the School of the gifted young of USTC in 2022.9.
 
 I may share something about my daily life and study.
 
