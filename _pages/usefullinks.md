@@ -8,7 +8,7 @@ author_profile: true
 
 Here are some links that might be useful.
 
-[USTC评课社区](icourse.club)
+[USTC评课社区]([icourse.club](https://icourse.club/user/7338))
 
 [USTC学习资料](https://www.zhangjy9610.me/USTCdata.html)
 
