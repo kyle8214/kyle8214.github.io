@@ -8,7 +8,7 @@ author_profile: true
 
 Here are some links that might be useful.
 
-[USTC评课社区](https://icourse.club/user/7338)
+[瀚海大学录课教程](https://github.com/TMYTiMidlY/capture-courses)
 
 [USTC学习资料](https://www.zhangjy9610.me/USTCdata.html)
 
